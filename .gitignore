@@ -1,0 +1,10 @@
+.vscode/
+build/
+Makefile
+cmake_install.cmake
+external_googletest-prefix/
+googletest-install/
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
